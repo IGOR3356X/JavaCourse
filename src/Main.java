@@ -1,9 +1,9 @@
+import Lesson_25_11_2024.GameConsole;
+
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Math.GG();
-
     }
 }
 class Do_While{
